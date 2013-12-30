@@ -1,3 +1,6 @@
+---
+metadata: true
+---
 # Introductie ICT in de Wolken
 
 ## De manier van werken
