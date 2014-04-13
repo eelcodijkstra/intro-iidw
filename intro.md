@@ -2,6 +2,7 @@
 
 ## De manier van werken
 Samenwerken speelt een grote rol
+Dit moet je leren.
 
 ## De lesstof-wiki
 Deze wiki wordt gebruikt door de docenten en de student-assistenten.
