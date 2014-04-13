@@ -12,5 +12,6 @@ Dit moet je leren.
 Deze wiki wordt gebruikt door de docenten en de student-assistenten.
 
 ## De leerlingen-wiki
+De leerlingen vinden in deze wiki hun opdrachten, en kunnen hier hun uitwerkingen plaatsen.
 
 ## Google Apps
